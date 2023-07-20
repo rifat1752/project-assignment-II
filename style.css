@@ -266,7 +266,7 @@ body {
 .card {
     position: relative;
     width: calc(25% - 20px);
-    height: 3calc(125% - 20px);
+    height: calc(125% - 20px);
 }
 .card-img {
     position: relative;
