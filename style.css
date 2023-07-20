@@ -256,7 +256,6 @@ body {
     font-weight: 400;
 }
 .card-container{
-    background-color: #3C354F;
     width: 80vw;
     margin: 0 auto;
     display: flex;
@@ -267,7 +266,7 @@ body {
 .card {
     position: relative;
     width: calc(25% - 20px);
-    height: 300px;
+    height: 3calc(125% - 20px);
 }
 .card-img {
     position: relative;
